@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/JnxF/advanced-software-analysis.svg)](https://GitHub.com/JnxF/advanced-software-analysis/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/JnxF/advanced-software-analysis.svg)](https://github.com/JnxF/advanced-software-analysis)
 [![GitHub contributors](https://img.shields.io/github/contributors/JnxF/advanced-software-analysis.svg)](https://GitHub.com/JnxF/advanced-software-analysis/graphs/contributors/)
-[![GitHub license](http://img.shields.io/github/license/JnxF/advanced-software-analysis.svg)](https://github.com/JnxF/advanced-software-analysis/blob/master/LICENSE)
+[![GitHub license](http://img.shields.io/github/license/JnxF/advanced-software-analysis)](https://github.com/JnxF/advanced-software-analysis/blob/master/LICENSE)
 
 This repository compiles the different activities that have been carried out during the Advanced Software Analysis course at the IT University of Copenhagen during Fall 2020: mainly class notes and assignments.
 
