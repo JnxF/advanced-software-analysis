@@ -14,6 +14,8 @@
 
 This repository compiles the different activities that have been carried out during the Advanced Software Analysis course at the IT University of Copenhagen during Fall 2020: mainly class notes and assignments.
 
+Most of the material is extracted from [Prof. Zhoulai Fu's course material](https://github.com/zhoulaifu/20_teaching_asa).
+
 ## Class notes
 ###  A. Modern Software Techniques for Testing, Automated Verification, and Program Analysis
 
