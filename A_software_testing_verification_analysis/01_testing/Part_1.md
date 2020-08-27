@@ -64,7 +64,7 @@ Picking input _x_:
 * Random inputs can be unrealistic.
 
 When test should stop?:
-* If fwe bugs are found, program is very good or tests are bad.
+* If few bugs are found, program is very good or tests are bad.
 * Many bugs are found: tests are very effective.
 * In general, it is extremely hard. _Testing is inherently incomplete_.
 
