@@ -24,10 +24,6 @@ _Based on [Prof. Zhoulai Fu's course material](https://github.com/zhoulaifu/20_t
 2. [Modern Software Techniques for Automated Verification](A_software_testing_verification_analysis/02_verification)
 3. [Modern Software Techniques for Program Analysis](A_software_testing_verification_analysis/03_analysis)
 
-### B. Programming with Session Types
-
-TBD
-
-### C. Type-Driven Development	
+### B. Type-Driven Development
 
 TBD
