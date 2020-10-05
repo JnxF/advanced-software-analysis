@@ -26,4 +26,5 @@ _Based on [Prof. Zhoulai Fu's course material](https://github.com/zhoulaifu/20_t
 
 ### B. Type-Driven Development
 
-TBD
+* [Week 6](B_type_driven_development/Week_6)
+* [Week 7](B_type_driven_development/Week_7)
