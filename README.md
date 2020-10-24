@@ -28,3 +28,5 @@ _Based on [Prof. Zhoulai Fu's course material](https://github.com/zhoulaifu/20_t
 
 * [Week 6](B_type_driven_development/Week_6)
 * [Week 7](B_type_driven_development/Week_7)
+* [Week 8](B_type_driven_development/Week_8)
+* [Week 9](B_type_driven_development/Week_9)
